@@ -96,4 +96,27 @@ Sure, here's the data formatted in Markdown:
 | Night Life                 | C      |
 | Peek-A-Boo                 | A      |
 ```
+## Possibilities
 
+- Stormy Monday
+- Brown Eyed Girl
+- Summertime
+- Hold on I'm Comin 
+- Compared to What?
+- Expressway
+- Papa was a Rolling Stone
+- Put It Where You Want it
+
+## James Brown 
+- I Feel Good
+- This is a Man's World
+- Superbad? 
+- Sex Machine
+- Funky Good Time
+- Lickin' Stick 
+- 
+
+
+## R and B
+
+- 
